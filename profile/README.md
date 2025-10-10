@@ -31,16 +31,28 @@ Refit은 사용자의 건강 데이터와 성분 정보를 기반으로 맞춤�
 ## 🧩 Architecture
 
 <p align="center">
-  <img width="1725" height="781" alt="Architecture" src="https://github.com/user-attachments/assets/c16d0205-3c6c-4507-8b0e-d59a43919679" />
+  <img width="1725" height="781" alt="refit_ARCHITECTURE" src="https://github.com/user-attachments/assets/bf880c0b-0ad2-4128-9b9c-b9dde84f70a8" />
 </p>
+
+<!-- <p align="center">
+  <img width="1725" height="781" alt="Architecture" src="https://github.com/user-attachments/assets/c16d0205-3c6c-4507-8b0e-d59a43919679" />
+</p> -->
 
 ---
 
 ## 🗂 ERD
 
 <p align="center">
-  <img width="1651" height="2777" alt="ERD" src="https://github.com/user-attachments/assets/9604a3de-29c2-4520-a48b-890630d42a0e" />
+  <img width="1920" height="2922" alt="refit_ERD_2" src="https://github.com/user-attachments/assets/c54784f5-e979-4753-aa15-a44dab265ab5" />
 </p>
+
+<!-- <p align="center">
+  <img width="4532" height="3402" alt="refit_ERD" src="https://github.com/user-attachments/assets/1988dd57-a1ba-4152-b11c-fda8c45e6e40" />
+</p> -->
+
+<!-- <p align="center">
+  <img width="1651" height="2777" alt="ERD" src="https://github.com/user-attachments/assets/9604a3de-29c2-4520-a48b-890630d42a0e" />
+</p> -->
 
 ---
 
